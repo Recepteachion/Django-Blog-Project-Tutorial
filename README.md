@@ -7,7 +7,7 @@ The link is https://www.youtube.com/user/schafer5
 Python version == 3.7.1
 Django vesrion == 2.1
 
-#To start it in your localhost
+# To start it in your localhost
 
 cd django_project
 
